@@ -1,2 +1,9 @@
 # hello-world
-Carl 17
+
+
+
+name = "Carl"
+
+age =  17
+
+hobby = "tennis"
